@@ -42,5 +42,6 @@ public class Main {
         session.save(laptop);
         transaction.commit();
         session.close();
+
     }
 }
