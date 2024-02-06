@@ -6,7 +6,7 @@ This project demonstrates how to use Hibernate ORM for various types of entity r
 
 ## Requirements
 
-- Java Development Kit (JDK) version X.X or higher
+- Java Development Kit (JDK) version 11 or higher
 
 - MySQL (or any other supported relational database)
 
