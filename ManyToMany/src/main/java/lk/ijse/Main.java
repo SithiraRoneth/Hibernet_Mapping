@@ -40,6 +40,10 @@ public class Main {
         session.save(student);
         session.save(student2);
         session.save(laptop);
+
+        student.setName("Roneth");
+        session.update(student);
+
         transaction.commit();
         session.close();
 
